@@ -1,0 +1,10 @@
+{
+  "name": "surco",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Busca artistas en YouTube, escucha sus canciones y agrégalas a una playlist, sin recargar la página.",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun --watch server.ts"
+  }
+}
